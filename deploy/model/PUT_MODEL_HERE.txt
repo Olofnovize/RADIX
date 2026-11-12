@@ -1,0 +1,1 @@
+Download the .ckpt from the Releases page and put it in this folder.
