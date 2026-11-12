@@ -1,0 +1,16 @@
+/.claude
+/archive
+/data
+/output
+/prediction
+/__pycache__
+*.pt
+# Ignore all .pyc files
+*.pyc
+/hpc2_output
+/figures_for_paper
+data.zip
+CLAUDE.md
+model_checkpoints/
+.DS_Store
+model_checkpoints.zip
